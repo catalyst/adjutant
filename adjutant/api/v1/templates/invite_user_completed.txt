@@ -1,7 +1,0 @@
-You have successfully joined the project '{{ task.keystone_user.project_name }}' on Openstack.
-
-You can switch projects on the dashboard via the project drop down list on the top menu.
-When using the command line tools or APIs, you can define the project name and ID you want to connect to.
-
-Kind regards,
-The Openstack team

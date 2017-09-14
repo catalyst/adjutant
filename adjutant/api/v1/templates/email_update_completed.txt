@@ -1,4 +1,0 @@
-This email is to confirm that your Openstack account email has now been changed.
-
-Kind regards,
-The Openstack team

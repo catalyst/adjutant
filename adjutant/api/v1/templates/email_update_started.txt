@@ -1,8 +1,0 @@
-Hello,
-
-We have had an email address change request from you. A confirmation email will be sent to '{{ actions.UpdateUserEmailAction.new_email }}'.
-
-If this was not you please get in touch with an administrator immediately.
-
-Kind Regards,
-The Openstack Team
